@@ -1,0 +1,42 @@
+2024-06-29 16:18:37 [INFO]: App is listening on port 3000
+2024-06-29 16:18:38 [INFO]: Connected to MongoDB
+2024-06-29 16:20:20 [[32MINFO[39M] 🔍: App is listening on port 3000
+2024-06-29 16:20:21 [[32MINFO[39M] 🔍: Connected to MongoDB
+[38;5;153m2024-06-29 16:22:58 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;153m2024-06-29 16:22:58 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:23:09 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:23:09 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:23:28 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:23:28 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:29:42 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:29:42 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:30:31 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:30:31 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:30:35 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;209m2024-06-29 16:30:35 [ERROR] ❌: Error inserting seed data: Product validation failed: category: `bakery` is not a valid enum value for path `category`.[39m
+[38;5;45m2024-06-29 16:30:35 [INFO] ℹ️: MongoDB connection closed[39m
+[38;5;45m2024-06-29 16:31:51 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:31:51 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:31:55 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:31:55 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:32:09 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:32:09 [INFO] ℹ️: App is listening on port 3000[39m
+[38;5;45m2024-06-29 16:32:14 [INFO] ℹ️: Connected to MongoDB[39m
+[38;5;45m2024-06-29 16:32:15 [INFO] ℹ️: Seed data inserted successfully[39m
+[38;5;45m2024-06-29 16:32:15 [INFO] ℹ️: MongoDB connection closed[39m
+[38;5;82m2024-06-29 16:42:17 [INFO] ✅: 🫦 - Connected to MongoDB[39m
+[38;5;82m2024-06-29 16:42:17 [INFO] ✅: App is listening on port 3000[39m
+[38;5;82m2024-06-29 16:42:17 [INFO] ✅: Connected to MongoDB[39m
+[38;5;82m2024-06-29 16:42:17 [INFO] ✅: Seed data inserted successfully[39m
+[38;5;82m2024-06-29 16:42:17 [INFO] ✅: MongoDB connection closed[39m
+[38;5;82m2024-06-29 16:42:52 [INFO] ✅: Connected to MongoDB[39m
+[38;5;82m2024-06-29 16:42:53 [INFO] ✅: Seed data inserted successfully[39m
+[38;5;82m2024-06-29 16:42:53 [INFO] ✅: MongoDB connection closed[39m
+[38;5;82m2024-06-29 16:43:07 [INFO] ✅: Connected to MongoDB[39m
+[38;5;82m2024-06-29 16:43:07 [INFO] ✅: Seed data inserted successfully[39m
+[38;5;82m2024-06-29 16:43:07 [INFO] ✅: MongoDB connection closed[39m
+[38;5;209m2024-06-29 16:43:43 [ERROR] ❌: Error inserting seed data: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.[39m
+[38;5;82m2024-06-29 16:43:43 [INFO] ✅: MongoDB connection closed[39m
+[38;5;82m2024-06-29 16:43:54 [INFO] ✅: Connected to MongoDB[39m
+[38;5;82m2024-06-29 16:43:55 [INFO] ✅: Seed data inserted successfully[39m
+[38;5;82m2024-06-29 16:43:55 [INFO] ✅: MongoDB connection closed[39m

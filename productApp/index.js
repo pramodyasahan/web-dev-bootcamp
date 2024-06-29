@@ -109,6 +109,12 @@ async function main() {
     }
   });
 
+  app.delete('/api/products/:id', async (req, res) => {
+    const { id } = req.params;
+    const deletedProduct = await Product.findByIdAndDelete(id);
+    res.redirect('/api/products');
+  });
+
   /**
    * GET /api/products/:id
    * Endpoint to show a single product.

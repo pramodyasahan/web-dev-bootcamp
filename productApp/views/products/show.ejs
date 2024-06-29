@@ -16,5 +16,8 @@
     <li>Category: <%= product.category %></li>
 </ul>
 <a href="/api/products">All Products</a>
+<form action="/api/products/<%= product._id %>?_method=DELETE" method="post">
+    <button>Delete</button>
+</form>
 </body>
 </html>
